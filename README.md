@@ -1,5 +1,4 @@
 # Age-guesstimator
-# Age Guessing Project
 
 This repository contains a simple age estimation project that predicts a person's approximate age from an input image.  
 The project is designed to be minimal, modular, and easy to extend.
